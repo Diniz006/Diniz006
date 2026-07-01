@@ -23,6 +23,11 @@ Script em Python que limpa e organiza uma planilha de clientes, removendo linhas
 
 🔗 Repositório: https://github.com/dini0606/organizador-planilhas-python
 
+### Validador de Clientes em Python
+Automação em Python que analisa uma planilha Excel de clientes, valida e-mails, telefones, CPFs e campos obrigatórios, separando clientes válidos de clientes com erro em um relatório final.
+
+🔗 Repositório: https://github.com/Diniz006/validador-clientes-python
+
 ## 🛠️ Tecnologias que estou estudando e usando
 
 - Python
