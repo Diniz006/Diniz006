@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Nicolas Diniz 👋
 
-<!--
-**Diniz006/Diniz006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software e estou construindo meu portfólio com foco em **Python, automações e projetos práticos**.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo projetos pequenos e reais para resolver problemas do dia a dia, organizando meu aprendizado e preparando uma base para atuar com freelas de automação e desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Foco atual
+
+- Python
+- Automação de tarefas
+- Manipulação de arquivos
+- Organização de planilhas
+- Git e GitHub
+- Projetos práticos para portfólio
+
+## 📌 Projetos em destaque
+
+### Organizador de Arquivos em Python
+Automação que lê arquivos de uma pasta, identifica extensões, cria categorias automaticamente e move os arquivos para as pastas corretas.
+
+🔗 Repositório: https://github.com/dini0606/organizador-arquivos-python
+
+### Organizador de Planilhas em Python
+Script em Python que limpa e organiza uma planilha de clientes, removendo linhas vazias, padronizando colunas, corrigindo e-mails, status e telefones.
+
+🔗 Repositório: https://github.com/dini0606/organizador-planilhas-python
+
+## 🛠️ Tecnologias que estou estudando e usando
+
+- Python
+- Pandas
+- OpenPyXL
+- Git
+- GitHub
+- Automação de processos
+
+## 🎯 Objetivo
+
+Construir uma base sólida em programação através de projetos reais, criar um portfólio profissional e futuramente oferecer soluções de automação para pequenos negócios, profissionais autônomos e empresas.
+
+## 📫 Contato
+
+- GitHub: https://github.com/dini0606
