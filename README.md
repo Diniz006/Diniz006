@@ -9,9 +9,7 @@ Atualmente estou desenvolvendo projetos pequenos e reais para resolver problemas
 - Python
 - Automação de tarefas
 - Manipulação de arquivos
-- Organização de planilhas
 - Git e GitHub
-- Projetos práticos para portfólio
 
 ## 📌 Projetos em destaque
 
